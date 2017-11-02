@@ -1,0 +1,43 @@
+body{
+    background: black;
+    font-family: 'Open-Sans' , sans-serif;
+    color:aqua;
+}
+h1{
+    text-align: center;
+    color:aqua;
+}
+
+.btn{
+    width: 200px;
+    height: 100px;
+    background: green;
+    border:none;
+    font-size: 30px;
+    color:aqua;
+    cursor: pointer;
+}
+.btn:hover{
+    background: red;
+}
+
+.main{
+    
+    text-align: center;
+}
+
+.style{
+    font-size:60px; 
+    color:green;
+}
+
+.res{
+    border:none;
+    
+    width: 100px;
+    color: azure;
+    font-size:60px;
+    color:black;
+    padding: 0 20px;
+    
+}
